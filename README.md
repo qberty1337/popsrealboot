@@ -10,3 +10,5 @@ Installation:
    -> For ARK add "ps1, pops-realboot/pops_realboot.prx, on" to your PLUGINS.TXT
    -> For non-ARK add "ms0:/SEPLUGINS/pops-realboot/pops_realboot.prx, 1" to your POPS.TXT
 4. Run your favourite PS1 game!
+
+https://qberty.com/pops-realboot-a-real-ps1-boot-intro-on-psp/
